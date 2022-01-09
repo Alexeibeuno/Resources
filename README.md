@@ -1,5 +1,3 @@
-# Research Paper Resources
+# Biases in AI and how to reduce them
 
-Working on writing a research paper titled "Biases in AI and how to reduce them".
-
-A single repository where it has all my research paper resources.
+This is a Github repository to collate literature and record progress on the research paper titled: *"Biases in AI and how to reduce them"*.
