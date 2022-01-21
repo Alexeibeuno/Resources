@@ -1,21 +1,21 @@
-#, Paper Name, Link, year
-1, Biases Affecting Human Decision Making In AI- Supported Second Opinion Settings, https://link.springer.com/chapter/10.1007/978-3-030-85447-8_23, 2019
-2, How to be responsible in AI publication, https://www.nature.com/articles/s42256-021-00355-6,2021
-3, Clinical reasoning in dire times. Analysis of cognitive biases in clinical cases during the covid19 pandemic, https://link.springer.com/content/pdf/10.1007/s11739-021-02884-9.pdf, 2022
-4, Openness and privacy in born-digital archives: reflecting the role of AI development, https://link.springer.com/content/pdf/10.1007/s00146-021-01361-3.pdf, 2021
-5, Paradoxical tensions related to AI powered evaluation systems in competitive sports, https://link.springer.com/content/pdf/10.1007/s10796-021-10215-8.pdf, 2021
-6, AI-assisted peer review, https://paperity.org/p/273881462/ai-assisted-peer-review, 2021
-7, Application of AI and IoT in clinical medicine: Summary and Challenges, https://link.springer.com/content/pdf/10.1007/s11596-021-2486-z.pdf, 2021
-8, Operationalising AI ethics: barriers.. enablers and next steps, https://link.springer.com/content/pdf/10.1007/s00146-021-01308-8.pdf, 2021
-9, Cognitive biases and mindfulness, https://www.nature.com/articles/s41599-021-00712-1.pdf, 2021
-10, Problems in AI research and how SP systems may help to solve them, https://core.ac.uk/display/334937832?recSetID= , 2020
-11, Cognitive biases in developing biased Artificial Intelligence recruitment system, https://core.ac.uk/display/479740377?recSetID= ,2021
-12, Biased embeddings from wild data: measuring understanding and removing, https://core.ac.uk/display/160761349?recSetID=, 2018
-13, A value sensitive design perspective on AI biases, https://core.ac.uk/display/489426170?recSetID=, 2022
-14, Algorithm fairness in AI for medicine and healthcare, https://arxiv.org/abs/2110.00603, 2021
-15, Anatomizing bias in facial analysis ,https://arxiv.org/abs/2112.06522, 2021
-16, Data Collection and Quality Challenges in Deep Learning: A Data-Centric AI Perspective, https://arxiv.org/abs/2112.06409, 2021
-17, “Just Drive” : Colour bias mitigation for semantic segmentation in the context of urban driving, https://arxiv.org/abs/2112.01121, 2021
-18, Two-step adversarial debiasing with partial learning — medical image case-studies, https://arxiv.org/abs/2111.08711, 2021
-19, Ethically aligned deep learning : Unbiased facial aesthetic prediction, https://arxiv.org/abs/2111.05149, 2021
-20, Hi my name is Martha: Using names to measure and mitigate bias in generative dialogue models, https://arxiv.org/abs/2109.03300, 2021
+#, Paper Name, Link, year,Status,
+1, Biases Affecting Human Decision Making In AI- Supported Second Opinion Settings, https://link.springer.com/chapter/10.1007/978-3-030-85447-8_23,2019,Reviewed abstracts,Rejected
+2, How to be responsible in AI publication, https://www.nature.com/articles/s42256-021-00355-6,2021,Reviewed abstracts,Rejected
+3, Clinical reasoning in dire times. Analysis of cognitive biases in clinical cases during the covid19 pandemic, https://link.springer.com/content/pdf/10.1007/s11739-021-02884-9.pdf,2022,Reviewed abstracts,Rejected
+4, Openness and privacy in born-digital archives: reflecting the role of AI development, https://link.springer.com/content/pdf/10.1007/s00146-021-01361-3.pdf,2021,Reviewed abstracts,Good to read
+5, Paradoxical tensions related to AI powered evaluation systems in competitive sports, https://link.springer.com/content/pdf/10.1007/s10796-021-10215-8.pdf,2021,Reviewed abstracts,Selected
+6, AI-assisted peer review, https://paperity.org/p/273881462/ai-assisted-peer-review,2021,Reviewed abstracts,Selected
+7, Application of AI and IoT in clinical medicine: Summary and Challenges, https://link.springer.com/content/pdf/10.1007/s11596-021-2486-z.pdf,2021,Reviewed abstracts,Selected
+8, Operationalising AI ethics: barriers.. enablers and next steps, https://link.springer.com/content/pdf/10.1007/s00146-021-01308-8.pdf,2021,Reviewed abstracts,Selected
+9, Cognitive biases and mindfulness, https://www.nature.com/articles/s41599-021-00712-1.pdf,2021,Reviewed abstracts,Rejected
+10, Problems in AI research and how SP systems may help to solve them, https://core.ac.uk/display/334937832?recSetID= ,2020,Reviewed abstracts,Rejected
+11, Cognitive biases in developing biased Artificial Intelligence recruitment system, https://core.ac.uk/display/479740377?recSetID= ,2021,Reviewed abstracts,Selected
+12, Biased embeddings from wild data: measuring understanding and removing, https://core.ac.uk/display/160761349?recSetID=,2018,Reviewed abstracts,Selected
+13, A value sensitive design perspective on AI biases, https://core.ac.uk/display/489426170?recSetID=,2022,Reviewed abstracts,Selected
+14, Algorithm fairness in AI for medicine and healthcare, https://arxiv.org/abs/2110.00603,2021,Reviewed abstracts,Selected
+15, Anatomizing bias in facial analysis ,https://arxiv.org/abs/2112.06522,2021,Reviewed abstracts,Selected
+16, Data Collection and Quality Challenges in Deep Learning: A Data-Centric AI Perspective, https://arxiv.org/abs/2112.06409,2021,Reviewed abstracts,Selected
+17,Just Drive� : Colour bias mitigation for semantic segmentation in the context of urban driving, https://arxiv.org/abs/2112.01121,2021,Reviewed abstracts,Rejected
+18, Two-step adversarial debiasing with partial learning — medical image case-studies, https://arxiv.org/abs/2111.08711,2021,Reviewed abstracts,Good to read
+19, Ethically aligned deep learning : Unbiased facial aesthetic prediction, https://arxiv.org/abs/2111.05149,2021,Reviewed abstracts,Selected
+20, Hi my name is Martha: Using names to measure and mitigate bias in generative dialogue models, https://arxiv.org/abs/2109.03300,2021,Reviewed abstracts,Selected
